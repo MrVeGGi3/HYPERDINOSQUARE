@@ -47,13 +47,7 @@ Instead of hard-coding behaviors, I engineered a **Polymorphic Platform System**
 ### 📐 Dynamic Level Design & Pacing
 The core challenge isn't just reflexes, but **Spatial Management**. The level design evolves procedurally to force player movement.
 * **Arena Constraints:** The confined 4x4 (or NxN) grid forces players to think several steps ahead, creating a "Risk vs. Reward" dynamic when chasing collectibles.
-
-
-### 📱 Adaptive Input System
-Implemented a custom Input Controller that seamlessly switches between **Keyboard (PC)** and **Touch Gestures (Mobile)**.
-* **Touch:** Detects swipe vectors for movement and tap-to-restart.
-* **Deadzone:** Implemented input filtering to prevent accidental movements.
-
+  
 ---
 
 ## 🕹️ How to Play
