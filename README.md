@@ -63,9 +63,9 @@ The core challenge isn't just reflexes, but **Spatial Management**. The level de
 
 ## 🛠️ Credits & Tools
 
-* **Developer:** Matheus Soares ([@MrVeGGi3](https://github.com/MrVeGGi3))
+* **Developer, Artist, Level and Sound Designer:** Matheus Soares ([@MrVeGGi3](https://github.com/MrVeGGi3))
 * **Engine:** Godot 4
-* **Art Assets:** Custom Pixel Art created in Aseprite.
+* **Art Assets:** Custom 2D Art created in Krita.
 
 ---
 
