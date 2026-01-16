@@ -25,7 +25,8 @@
 
 ## 📖 About the Project
 
-<img width="1146" height="637" alt="image" src="https://github.com/user-attachments/assets/89d10165-ad04-4d5c-a21a-323e2f6d68be" />
+![HyperDinoSquare-Intro](https://github.com/user-attachments/assets/3a5c9c82-432a-4552-a364-3fba6419e05e)
+
 
 **Hyper Dino Square** is a hyper-casual arcade game designed to test player reflexes within a dynamic arena. The player controls a dino that must navigate a treacherous environment where the floor itself is the enemy.
 
@@ -37,12 +38,15 @@ The project was built with a strong emphasis on **Scalable Architecture** and **
 
 ### 🧱 Modular Platform System (OOP)
 
-<img width="266" height="377" alt="image" src="https://github.com/user-attachments/assets/09739fbc-4c9f-4a91-b318-e4b060f43ff2" />
+
+![HyperDinoSquare-Mechanics](https://github.com/user-attachments/assets/e1cac96f-5ff9-428f-a885-a58999bd1ee7)
 
 Instead of hard-coding behaviors, I engineered a **Polymorphic Platform System** using inheritance and composition. This allows for rapid iteration and creation of new hazards.
 * **Base Class:** Handles common logic (collision, spawning, visual state).
 * **Derived Types:** specialized behaviors like `Left-to-Right`, `Right-to-Left`, `Diagonal`, `Up-Down` and `Down-Up`.
 * **Benefit:** New platform types can be added in minutes by extending the base class without modifying the core game loop.
+
+![Mechanics-I_1](https://github.com/user-attachments/assets/6a228cb9-a541-4123-8212-c235b56d008c)
 
 ### 📐 Dynamic Level Design & Pacing
 The core challenge isn't just reflexes, but **Spatial Management**. The level design evolves procedurally to force player movement.
